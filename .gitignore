@@ -1,0 +1,9 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+coverage/
+Vault_Archive/
+scratch/
+separate_vault.js
