@@ -1,4 +1,4 @@
-# VP Group Responsive Institutional Portal
+# VP Group & Technologies Portal
 
 ![VP Group Portal](https://img.shields.io/badge/VP%20Group-Institutional%20Portal-8b5cf6?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-10b981?style=for-the-badge)
